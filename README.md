@@ -8,7 +8,7 @@
 <h2>👨‍💻 About Me</h2>
 <ul>
   <li>💻 Passionate developer with a deep interest in software engineering and system design.</li>
-  <li>📚 2nd-year <strong>BSc (Hons) in Computing</strong> | Diploma in <strong>Software Engineering</strong>.</li>
+  <li>📚 2<sup>nd</sup> Year <strong>BSc (Hons) in Computing</strong>.</li>
   <li>🔧 Strong foundation in programming languages like Python, Java, C#, C, and web development technologies such as HTML, CSS, PHP, JavaScript, and Firebase.</li>
   <li>🌐 Currently working with modern web technologies such as Node.js, React, and Flutter.</li>
   <li>🤝 Always excited to collaborate on interesting projects and contribute to open-source.</li>
@@ -52,10 +52,11 @@
 </p>
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehanranasinghe&show_icons=true&locale=en&layout=compact" alt="shehanranasinghe" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehanranasinghe&show_icons=true&locale=en" alt="shehanranasinghe" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehanranasinghe&" alt="shehanranasinghe" /></p>
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shehanranasinghe&show_icons=true&theme=transparent" alt="shehanranasinghe" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehanranasinghe&theme=transparent"" alt="shehanranasinghe" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehanranasinghe&show_icons=true&theme=transparent"&layout=compact" alt="shehanranasinghe"/></p>
 </div>
+
 
 <h2>📫 Connect with Me</h2>
 <p>
