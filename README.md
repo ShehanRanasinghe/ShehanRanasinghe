@@ -51,11 +51,11 @@
   <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
 </p>
 
-<div>
-&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shehanranasinghe&show_icons=true&theme=transparent" alt="shehanranasinghe" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehanranasinghe&" alt="shehanranasinghe" />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehanranasinghe&show_icons=true&theme=transparent"&layout=compact" alt="shehanranasinghe"/></p>
-</div>
+<table border=0px>
+<td>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shehanranasinghe&show_icons=true&theme=transparent" alt="shehanranasinghe" /></td>
+<td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehanranasinghe&" alt="shehanranasinghe" /></td>
+<td><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehanranasinghe&show_icons=true&theme=transparent"&layout=compact" alt="shehanranasinghe"/></p></td>
+</table>
 
 
 <h2>📫 Connect with Me</h2>
