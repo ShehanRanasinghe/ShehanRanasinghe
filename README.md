@@ -19,9 +19,9 @@
 
 <table align="center">
   
-<tr><td colspan="8"><h3 align="center">🧠 Programming Languages</h3></td><td rowspan="2"><img src="assets/programmer.gif"></td></tr>
+<tr><td colspan="9"><h3 align="center">🧠 Programming Languages</h3></td><td rowspan="2"><img src="assets/programmer.gif"></td></tr>
 <tr>
-<td colspan="9"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>
+<td colspan="10"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>
 <a href="https://visualstudio.microsoft.com/vb/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="vb.net" width="60" height="60"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/></a>
