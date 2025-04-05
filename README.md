@@ -30,7 +30,7 @@
 
 
 
-<tr><td colspan="8"><h3 align="center">✅ Frontend</h3></td><td rowspan="2"><img src="assets/Frontend.gif"></td></tr>
+<tr><td colspan="8"><h3 align="center">🌄 Frontend</h3></td><td rowspan="2"><img src="assets/Frontend.gif"></td></tr>
 <tr>
 <td colspan="9"><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a>
@@ -44,8 +44,8 @@
 <td colspan="9"><a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></a>    
 <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/></a>
-<a href="https://www.oracle.com/cloud/" target="_blank"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle cloud" width="60" height="60"/></a></td>
+<a href="https://www.oracle.com/cloud/" target="_blank"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle cloud" width="60" height="60"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/></a></td>
 </tr>
 
 
@@ -61,7 +61,7 @@
 
   
 
-<tr><td colspan="7"><h3 align="center">🌐 Networking & Visualization</h3></td><td rowspan="2"><img src="assets/Networking.gif"></td><td rowspan="2"><img src="assets/Visualization.gif"></td></tr>
+<tr><td colspan="7"><h3 align="center">🌐 Networking & 📊 Visualization</h3></td><td rowspan="2"><img src="assets/Networking.gif"></td><td rowspan="2"><img src="assets/Visualization.gif"></td></tr>
 <tr>
 <td colspan="9"><a href="https://www.netacad.com/courses/packet-tracer" target="_blank"><img src="https://www.moosoft.com/wp-content/uploads/2023/07/Cisco-Packet-Tracer-098765.png" alt="cisco packet tracer" width="60" height="60"/></a>
 <a href="https://www.tableau.com/" target="_blank"><img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" alt="tableau" width="120" height="80"/></a></td>
