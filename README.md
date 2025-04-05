@@ -52,7 +52,7 @@
      <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a>
      <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/></a>
      <a href="https://www.kali.org/" target="_blank"><img src="https://www.kali.org/images/kali-logo.svg" alt="kali linux" width="60" height="60"/></a>
-     <a href="https://www.wampserver.com/en/" target="_blank"><img src="https://www.wampserver.com/wp-content/themes/wampserver/img/logo.png" alt="wampserver" width="220" height="60"/></a>
+     <a href="https://www.wampserver.com/en/" target="_blank"><img src="https://www.wampserver.com/wp-content/themes/wampserver/img/logo.png" alt="wampserver" width="220" height="55"/></a>
 </p>
 <h3 align="center">🌐 Networking & Visualization</h3>
 <p align="center">
