@@ -17,9 +17,9 @@
 
 <h2>🛠 Tech Stack</h2>
 
-<table border="0px">
+<table>
   
-<tr><td colspan="8"><h3>🧠 Programming Languages</h3></td><td><img src="assets/programmer.gif"></td></tr>
+<tr><td colspan="8"><h3 align="center">🧠 Programming Languages</h3></td><td rowspan="2"><img src="assets/programmer.gif"></td></tr>
 <tr>
 <td colspan="9"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>
 <a href="https://visualstudio.microsoft.com/vb/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="vb.net" width="60" height="60"/></a>
@@ -30,7 +30,7 @@
 
 
 
-<tr><td colspan="8"><h3>✅ Frontend</h3></td><td><img src="assets/Frontend.gif"></td></tr>
+<tr><td colspan="8"><h3 align="center">✅ Frontend</h3></td><td rowspan="2"><img src="assets/Frontend.gif"></td></tr>
 <tr>
 <td colspan="9"><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a>
@@ -39,7 +39,7 @@
 
 
 
-<tr><td colspan="8"><h3>💻 Backend & Databases</h3></td><td><img src="assets/Backend.gif"></td></tr>
+<tr><td colspan="8"><h3 align="center">💻 Backend & Databases</h3></td><td rowspan="2"><img src="assets/Backend.gif"></td></tr>
 <tr>
 <td colspan="9"><a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></a>    
@@ -50,8 +50,8 @@
 
 
 
-<tr><td colspan="8"><h3>🛠️ Development Tools</h3></td><td><img src="assets/Development.gif"></td></tr>
-<<tr>
+<tr><td colspan="8"><h3 align="center">🛠️ Development Tools</h3></td><td rowspan="2"><img src="assets/Development.gif"></td></tr>
+<tr>
 <td colspan="9"><a href="https://netbeans.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" width="60" height="60"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a>
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/></a>
@@ -61,7 +61,7 @@
 
   
 
-<tr><td colspan="7"><h3>🌐 Networking & Visualization</h3></td><td><img src="assets/Networking.gif"></td><td><img src="assets/Visualization.gif"></td></tr>
+<tr><td colspan="7"><h3 align="center">🌐 Networking & Visualization</h3></td><td rowspan="2"><img src="assets/Networking.gif"></td><td rowspan="2"><img src="assets/Visualization.gif"></td></tr>
 <tr>
 <td colspan="9"><a href="https://www.netacad.com/courses/packet-tracer" target="_blank"><img src="https://www.moosoft.com/wp-content/uploads/2023/07/Cisco-Packet-Tracer-098765.png" alt="cisco packet tracer" width="60" height="60"/></a>
 <a href="https://www.tableau.com/" target="_blank"><img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" alt="tableau" width="120" height="80"/></a></td>
@@ -69,7 +69,7 @@
 
 
 
-<tr><td colspan="8"><h3>📱 Mobile Development</h3></td><td><img src="assets/MobileApp.gif"></td></tr>
+<tr><td colspan="8"><h3 align="center">📱 Mobile Development</h3></td><td rowspan="2"><img src="assets/MobileApp.gif"></td></tr>
 <tr>
 <td colspan="9"><a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/></a>
 <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/></a></td>
@@ -77,14 +77,14 @@
 
 
 
-<tr><td colspan="8"><h3>🎨 Design Tools</h3></td><td><img src="assets/Design.gif"></td></tr>
+<tr><td colspan="8"><h3 align="center">🎨 Design Tools</h3></td><td rowspan="2"><img src="assets/Design.gif"></td></tr>
 <tr>
 <td colspan="9"><a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg" alt="photoshop" width="60" height="60"/></a>
 <a href="https://www.canva.com/" target="_blank"><img src="https://static.canva.com/web/images/856bac30504ecac8dbd38dbee61de1f1.svg" alt="canva" width="60" height="60"/></td>
 </tr>
 </table>
       
-<table border=0px>
+<table>
 <tr>
 <td>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shehanranasinghe&show_icons=true&theme=transparent" alt="shehanranasinghe" /></td>
 <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehanranasinghe&theme=transparent" alt="shehanranasinghe" /></td>
