@@ -17,7 +17,7 @@
 
 <h2>🛠 Tech Stack</h2>
 
-<table>
+<table align="center">
   
 <tr><td colspan="8"><h3 align="center">🧠 Programming Languages</h3></td><td rowspan="2"><img src="assets/programmer.gif"></td></tr>
 <tr>
