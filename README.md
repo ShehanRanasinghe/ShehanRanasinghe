@@ -17,9 +17,9 @@
 
 <h2>🛠 Tech Stack</h2>
 
-<table>
-<tr><h3>🧠 Programming Languages</h3></tr>
-<tr>
+<table border="0px">
+<tr><td><h3>🧠 Programming Languages</h3></td><td></td><td></td><td></td><td></td><td></td><td><img src="assets/programmer.gif"></td></tr>
+<tr><td></td>
 <td><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a></td>
 <td><a href="https://visualstudio.microsoft.com/vb/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="vb.net" width="60" height="60"/></a></td>
 <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/></a></td>
