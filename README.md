@@ -1,9 +1,6 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">👋 Hi, I'm Shehan Ranasinghe!</h1>
-<p align="center">
-  💻 <strong>Software Engineer | 🌐 Full-Stack Developer | 🔒 Cybersecurity Enthusiast</strong> 🚀
-</p>
+<img src="assets/banner.png">
 
 <h2>👨‍💻 About Me</h2>
 <ul>
