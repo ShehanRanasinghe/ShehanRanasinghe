@@ -2,7 +2,7 @@
 
 <img src="assets/banner.png">
 
-<h2>👨‍💻 About Me</h2>
+<h2>📝 About Me</h2>
 <ul>
   <li>💻 Passionate developer with a deep interest in software engineering and system design.</li>
   <li>📚 2<sup>nd</sup> Year <strong>BSc (Hons) in Computing</strong>.</li>
