@@ -16,8 +16,8 @@
 <table>
 <tr><h3 align="center">🎓 My Statistics</h3></tr>
 <tr>
-<td>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shehanranasinghe&show_icons=true&theme=transparent" alt="shehanranasinghe" /></td>
-<td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehanranasinghe&theme=transparent" alt="shehanranasinghe" /></td>
+<td>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shehanranasinghe&count_private=true&show_icons=true&theme=transparent" alt="shehanranasinghe" /></td>
+<td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehanranasinghe&theme=transparent&mode=weekly" alt="shehanranasinghe" /></td>
 </tr>
 <td><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehanranasinghe&show_icons=true&theme=transparent"&layout=compact alt="shehanranasinghe"/></p></td>
 </table>
