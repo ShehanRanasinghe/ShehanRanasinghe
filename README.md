@@ -16,10 +16,10 @@
 <table>
 <tr><h3 align="center">🎓 My Statistics</h3></tr>
 <tr>
-<td>&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=shehanranasinghe&count_private=true&show_icons=true&locale=en&theme=transparent&v=2" alt="GitHub Stats" /></td>
+<td>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shehanranasinghe&count_private=true&show_icons=true&locale=en&theme=transparent&hide_border=true&v=2" alt="GitHub Stats" /></td>
 <td><img src="https://github-readme-streak-stats.herokuapp.com?user=shehanranasinghe&theme=transparent&hide_border=true&mode=weekly&v=2" alt="GitHub Streak" /></td>
 </tr>
-<td><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shehanranasinghe&show_icons=true&langs_count=10&layout=compact&theme=transparent&v=2" alt="Top Languages" /></p></td>
+<td><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shehanranasinghe&show_icons=true&langs_count=10&layout=compact&theme=transparent&hide_border=true&v=2" alt="Top Languages" /></p></td>
 </table>
 
 <hr>
