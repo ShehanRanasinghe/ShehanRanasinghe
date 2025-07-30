@@ -24,6 +24,7 @@
 
 <hr>
 <h3 align="center">🧠 Languages and 🛠 Tools</h3>
+<p>
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" /></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" /></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" /></a>
@@ -33,25 +34,26 @@
 <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" /></a>
 <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" /></a>
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>  
-<a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebass" /></a>
+<a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>
 <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" /></a>
 <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" /></a>
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://react.dev/idea/"><img src="https://skillicons.dev/icons?i=react" /></a>
 <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" /></a>
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" /></a>
 <a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali" /></a>
 <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" /></a>
 <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" /></a>
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" /></a>
-
-<a href="https://www.wampserver.com/en/" target="_blank"><img src="https://www.wampserver.com/wp-content/themes/wampserver/img/logo.png" alt="wampserver" width="220" height="55"/></a>
-<a href="https://www.netacad.com/courses/packet-tracer" target="_blank"><img src="https://www.moosoft.com/wp-content/uploads/2023/07/Cisco-Packet-Tracer-098765.png" alt="cisco packet tracer" width="60" height="60"/></a>
-<a href="https://www.tableau.com/" target="_blank"><img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" alt="tableau" width="120" height="80"/></a>
-<a href="https://www.canva.com/" target="_blank"><img src="https://static.canva.com/web/images/856bac30504ecac8dbd38dbee61de1f1.svg" alt="canva" width="60" height="60"/>
-<a href="https://visualstudio.microsoft.com/vb/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="vb.net" width="60" height="60"/></a>
+<a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" /></a>
+<a href="https://www.wampserver.com/en/"><img src="https://avatars.githubusercontent.com/u/79460792?s=280&v=4" width="50" height="50"/></a>
+<a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.icons8.com/ios7/512/40C057/cisco-packet-tracer.png" width="50" height="50"/></a>
+<a href="https://www.tableau.com/"><img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" width="45" height="45"/></a>
+<a href="https://www.canva.com/"><img src="https://avatars.githubusercontent.com/u/2562356?s=280&v=4" width="50" height="50"/>
+</p>
       
 <hr>
 <h3 align="center">🥇 Badges</h3>
